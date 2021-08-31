@@ -1,4 +1,4 @@
-# walmart_demo
+# walmart demo
 
 Its a demo project
 
